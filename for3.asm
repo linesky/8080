@@ -2,7 +2,7 @@
 mvi b,0
 mvi c,3
 mvi d,16
-mvi a,0
+mvi e,0
 for1:
 mov a,e
 add d
