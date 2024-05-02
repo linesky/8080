@@ -3,5 +3,5 @@
 
 
 
-https://en.m.wikipedia.org/wiki/Intel_8080
+;https://eliben.org/js8080/
 
